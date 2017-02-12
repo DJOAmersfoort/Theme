@@ -12,6 +12,11 @@ engines:
       config: .eslintrc.json
   markdownlint:
     enabled: true
+    MD030:
+      enabled: false
+    MD026:
+      enabled: false
+
 ratings:
   paths:
     - "js/**.js"
