@@ -45,7 +45,7 @@ module.exports = function(grunt) {
         eslintconfig: '.eslintrc.json',
         sass: {
             'dist/theme.css': [
-                'scss/theme.scss'
+                'scss/test.scss'
             ]
         },
         sasslint: [
