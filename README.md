@@ -1,5 +1,9 @@
 # DJO Amersfoort Theme
 
+[![Build status][shield-build]][link-build]
+[![Code Climate rating][shield-cc]][link-cc]
+[![AGPL-3.0 license][shield-license]][link-license]
+
 Contains theme components, based on Bootstrap 4.
 
 This repository contains various modules that can be used to build a DJO-themed
@@ -50,3 +54,10 @@ Please see [the documentation][3] for the list of available modules.
 [1]: LICENSE.md
 [2]: AUTHORS.md
 [3]: docs/index.md
+
+[shield-build]: https://img.shields.io/travis/djoamersfoort/theme.svg
+[link-build]: https://travis-ci.org/djoamersfoort/theme
+[shield-cc]: https://img.shields.io/codeclimate/github/djoamersfoort/theme.svg
+[link-cc]: https://codeclimate.com/github/djoamersfoort/theme
+[shield-license]: https://img.shields.io/github/license/djoamersfoort/theme.svg
+[link-license]: LICENSE.md
