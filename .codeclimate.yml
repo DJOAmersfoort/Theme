@@ -10,11 +10,11 @@ engines:
     channel: "eslint-3"
     config:
       config: .eslintrc.json
-  scss-lint:
+  markdownlint:
     enabled: true
 ratings:
   paths:
     - "js/**.js"
-    - "scss/**.scss"
+    - "**.md"
   exclude_paths:
     - dist/
