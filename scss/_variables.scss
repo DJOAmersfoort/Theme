@@ -105,26 +105,26 @@ $c-theme-gradient-pink-f: transparentize($c-theme-gradient-pink, 1);
 $c-theme-gradient-pink-h: transparentize($c-theme-gradient-pink, $c-theme-gradient-transp);
 
 $c-theme-gradient-normal: (
-    $c-theme-gradient-blue-h 0%,
-    $c-theme-gradient-blue-f 40%,
-    $c-theme-gradient-blue-f 60%,
-    $c-theme-gradient-pink-h 100%
+  $c-theme-gradient-blue-h 0%,
+  $c-theme-gradient-blue-f 40%,
+  $c-theme-gradient-blue-f 60%,
+  $c-theme-gradient-pink-h 100%
 );
 $c-theme-gradient-pink: (
-    $c-theme-gradient-pink-f 0%,
-    $c-theme-gradient-pink-f 70%,
-    $c-theme-gradient-pink-h 100%
+  $c-theme-gradient-pink-f 0%,
+  $c-theme-gradient-pink-f 70%,
+  $c-theme-gradient-pink-h 100%
 );
 $c-theme-gradient-blue: (
-    $c-theme-gradient-blue-h 0%,
-    $c-theme-gradient-blue-f 30%,
-    $c-theme-gradient-blue-f 100%
+  $c-theme-gradient-blue-h 0%,
+  $c-theme-gradient-blue-f 30%,
+  $c-theme-gradient-blue-f 100%
 );
 $c-theme-gradient-pink-simple: (
-    $c-theme-gradient-pink-f 0%,
-    $c-theme-gradient-pink-h 100%
+  $c-theme-gradient-pink-f 0%,
+  $c-theme-gradient-pink-h 100%
 );
 $c-theme-gradient-blue-simple: (
-    $c-theme-gradient-blue-h 0%,
-    $c-theme-gradient-blue-f 100%
+  $c-theme-gradient-blue-h 0%,
+  $c-theme-gradient-blue-f 100%
 );

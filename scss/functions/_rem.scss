@@ -21,6 +21,6 @@ $font-size-root: 16px default;
 // @return {Length} rem size
 //
 @function rem($size) {
-    $rem-size: $size / $font-size-root;
-    @return $rem-size * 1rem;
+  $rem-size: $size / $font-size-root;
+  @return $rem-size * 1rem;
 }

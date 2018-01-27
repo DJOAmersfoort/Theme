@@ -3,14 +3,14 @@
 //
 
 @mixin make-site-wide {
-    padding: $grid-gutter 0;
+  padding: $grid-gutter 0;
 
-    &__content {
-        @include make-container;
-        @include make-container-max-widths;
-    }
+  &__content {
+    @include make-container;
+    @include make-container-max-widths;
+  }
 }
 
 @mixin site-wide {
-    @include make-site-wide;
+  @include make-site-wide;
 }
